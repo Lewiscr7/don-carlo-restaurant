@@ -40,7 +40,7 @@ O site foi desenvolvido para apresentar o restaurante, seu cardápio, eventos e 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/restaurante-doncarlo.git
+   git clone https://github.com/Lewiscr7/restaurante-doncarlo.git
    ```
 
 2. **Navegue até a pasta do projeto**:
@@ -76,15 +76,10 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
    ```
 5. **Abra um Pull Request**.
 
-## **Licença**
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## **Contato**
 
-- **Email**: seu-email@example.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
+- **Email**: henrique.cordeiro21@gmail.com
+- **GitHub**: [Lewiscr7]([https://github.com/Lewiscr7)]
 
 ---
-
-**Nota**: Certifique-se de substituir `seu-usuario` e `seu-email@example.com` pelos seus dados reais antes de publicar no GitHub.
