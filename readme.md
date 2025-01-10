@@ -80,6 +80,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 ## **Contato**
 
 - **Email**: henrique.cordeiro21@gmail.com
-- **GitHub**: [Lewiscr7]([https://github.com/Lewiscr7)]
+- **GitHub**: [Lewiscr7]([https://github.com/Lewiscr7)
 
 ---
